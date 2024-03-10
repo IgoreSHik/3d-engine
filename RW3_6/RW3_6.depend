@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1636109809 source:c:\users\igor\desktop\rw3_6\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1636262062 source:c:\users\igor\desktop\rw3_6\main.cpp
+	<glad/gl.h>
+	<GLFW/glfw3.h>
+	"linmath.h"
+	<stdlib.h>
+	<stdio.h>
+	<vector>
+
+1635796679 c:\users\igor\desktop\rw3_6\linmath.h
+	<string.h>
+	<math.h>
+	<string.h>
+

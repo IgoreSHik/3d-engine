@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1635794196 source:c:\users\igor\desktop\rw3_4\main.c
+	<glad/gl.h>
+	<GLFW/glfw3.h>
+	"linmath.h"
+	<stdlib.h>
+	<stdio.h>
+
+1635796679 c:\users\igor\desktop\rw3_4\linmath.h
+	<string.h>
+	<math.h>
+	<string.h>
+

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="RW3_5" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/RW3_5" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/RW3_5" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add directory="../../../../Program Files/CodeBlocks/TDM-GCC-64/x86_64-w64-mingw32/include" />
+		</Compiler>
+		<Linker>
+			<Add option="-lglfw3" />
+			<Add option="-lopengl32" />
+			<Add option="-lglu32" />
+			<Add option="-lgdi32" />
+			<Add directory="../../../../Program Files/CodeBlocks/TDM-GCC-64/x86_64-w64-mingw32/lib" />
+		</Linker>
+		<Unit filename="glad.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="linmath.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
