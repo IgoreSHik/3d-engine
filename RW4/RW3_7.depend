@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1636317393 source:c:\users\igor\desktop\rw3_7\main.c
+	<windows.h>
+	<gl/gl.h>
+
+1635796679 c:\users\igor\desktop\rw3_7\linmath.h
+	<string.h>
+	<math.h>
+	<string.h>
+
+1636109809 source:c:\users\igor\desktop\rw3_7\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1636109809 source:c:\users\igor\desktop\rw3_7 Ч копи€\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1637258253 source:c:\users\igor\desktop\rw3_7 Ч копи€\main.c
+	<windows.h>
+	<gl/gl.h>
+
+1636109809 source:c:\users\igor\desktop\rw4\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
